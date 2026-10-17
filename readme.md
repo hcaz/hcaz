@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zachary Claret-Scott</h1>
-<h3 align="center">Senior PHP developer based in Lincoln UK! Over 10 years experience creating bespoke software solutions.</h3>
-
-<center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hcaz&" alt="hcaz" /></center>
+<h3 align="center">Senior PHP developer based in Kingston Upon Hull, UK! Over 10 years experience creating bespoke software solutions.</h3>
 
 - 🚀 I founded [enhost](https://enhost.io)
 
